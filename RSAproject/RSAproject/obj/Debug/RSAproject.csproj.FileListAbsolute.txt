@@ -1,0 +1,48 @@
+E:\haui_s5\atbmtt\RSAproject\RSAproject\bin\Debug\RSAproject.exe.config
+E:\haui_s5\atbmtt\RSAproject\RSAproject\bin\Debug\RSAproject.exe
+E:\haui_s5\atbmtt\RSAproject\RSAproject\bin\Debug\RSAproject.pdb
+E:\haui_s5\atbmtt\RSAproject\RSAproject\obj\Debug\RSAproject.csproj.AssemblyReference.cache
+E:\haui_s5\atbmtt\RSAproject\RSAproject\obj\Debug\RSAproject.csproj.SuggestedBindingRedirects.cache
+E:\haui_s5\atbmtt\RSAproject\RSAproject\obj\Debug\MainWindow.g.cs
+E:\haui_s5\atbmtt\RSAproject\RSAproject\obj\Debug\App.g.cs
+E:\haui_s5\atbmtt\RSAproject\RSAproject\obj\Debug\RSAproject_MarkupCompile.cache
+E:\haui_s5\atbmtt\RSAproject\RSAproject\obj\Debug\RSAproject_MarkupCompile.lref
+E:\haui_s5\atbmtt\RSAproject\RSAproject\obj\Debug\MainWindow.baml
+E:\haui_s5\atbmtt\RSAproject\RSAproject\obj\Debug\RSAproject.g.resources
+E:\haui_s5\atbmtt\RSAproject\RSAproject\obj\Debug\RSAproject.Properties.Resources.resources
+E:\haui_s5\atbmtt\RSAproject\RSAproject\obj\Debug\RSAproject.csproj.GenerateResource.cache
+E:\haui_s5\atbmtt\RSAproject\RSAproject\obj\Debug\RSAproject.csproj.CoreCompileInputs.cache
+E:\haui_s5\atbmtt\RSAproject\RSAproject\obj\Debug\RSAproject.exe
+E:\haui_s5\atbmtt\RSAproject\RSAproject\obj\Debug\RSAproject.pdb
+C:\Users\nguye\Downloads\Compressed\BTL ATBMTT kì 1 năm 3\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\bin\Debug\RSAproject.exe.config
+C:\Users\nguye\Downloads\Compressed\BTL ATBMTT kì 1 năm 3\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\bin\Debug\RSAproject.exe
+C:\Users\nguye\Downloads\Compressed\BTL ATBMTT kì 1 năm 3\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\bin\Debug\RSAproject.pdb
+C:\Users\nguye\Downloads\Compressed\BTL ATBMTT kì 1 năm 3\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\RSAproject.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\Compressed\BTL ATBMTT kì 1 năm 3\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\RSAproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Downloads\Compressed\BTL ATBMTT kì 1 năm 3\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\MainWindow.g.cs
+C:\Users\nguye\Downloads\Compressed\BTL ATBMTT kì 1 năm 3\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\App.g.cs
+C:\Users\nguye\Downloads\Compressed\BTL ATBMTT kì 1 năm 3\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\RSAproject_MarkupCompile.cache
+C:\Users\nguye\Downloads\Compressed\BTL ATBMTT kì 1 năm 3\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\RSAproject_MarkupCompile.lref
+C:\Users\nguye\Downloads\Compressed\BTL ATBMTT kì 1 năm 3\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\MainWindow.baml
+C:\Users\nguye\Downloads\Compressed\BTL ATBMTT kì 1 năm 3\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\RSAproject.g.resources
+C:\Users\nguye\Downloads\Compressed\BTL ATBMTT kì 1 năm 3\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\RSAproject.Properties.Resources.resources
+C:\Users\nguye\Downloads\Compressed\BTL ATBMTT kì 1 năm 3\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\RSAproject.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\Compressed\BTL ATBMTT kì 1 năm 3\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\RSAproject.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\Compressed\BTL ATBMTT kì 1 năm 3\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\RSAproject.exe
+C:\Users\nguye\Downloads\Compressed\BTL ATBMTT kì 1 năm 3\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\RSAproject.pdb
+D:\Learn\ATBMTT\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\bin\Debug\RSAproject.exe.config
+D:\Learn\ATBMTT\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\bin\Debug\RSAproject.exe
+D:\Learn\ATBMTT\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\bin\Debug\RSAproject.pdb
+D:\Learn\ATBMTT\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\RSAproject.csproj.AssemblyReference.cache
+D:\Learn\ATBMTT\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\RSAproject.csproj.SuggestedBindingRedirects.cache
+D:\Learn\ATBMTT\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\MainWindow.g.cs
+D:\Learn\ATBMTT\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\App.g.cs
+D:\Learn\ATBMTT\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\RSAproject_MarkupCompile.cache
+D:\Learn\ATBMTT\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\RSAproject_MarkupCompile.lref
+D:\Learn\ATBMTT\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\MainWindow.baml
+D:\Learn\ATBMTT\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\RSAproject.g.resources
+D:\Learn\ATBMTT\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\RSAproject.Properties.Resources.resources
+D:\Learn\ATBMTT\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\RSAproject.csproj.GenerateResource.cache
+D:\Learn\ATBMTT\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\RSAproject.csproj.CoreCompileInputs.cache
+D:\Learn\ATBMTT\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\RSAproject.exe
+D:\Learn\ATBMTT\Nhom5_NguyenQuangHuy_2020606068_Demo\Nhom5_NguyenQuangHuy_2020606068\RSAproject\RSAproject\obj\Debug\RSAproject.pdb
